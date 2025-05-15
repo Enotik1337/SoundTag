@@ -21,8 +21,8 @@ body {
 }
 
 #icon {
-  width: 48px;  /* больше иконка */
-  height: 48px;
+  width: 100px;
+  height: 100px;
   margin-bottom: 12px;
 }
 
