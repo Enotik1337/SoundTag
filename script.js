@@ -1,6 +1,6 @@
 const sounds = [
   'sounds/monsterkill.mp3',
-  'sounds/china.mp3',
+  'sounds/china.mp3'
 ];
 
 let audio;
